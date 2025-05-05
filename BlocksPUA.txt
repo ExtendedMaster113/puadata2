@@ -1,2 +1,2 @@
-F4000..F405F; Youkinese
-F4600..F467F; Youkinese Supplement
+F8D0..F8FF; Klingon
+FC000..FC06F; Morningmusume
