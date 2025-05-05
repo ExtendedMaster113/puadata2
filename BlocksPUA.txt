@@ -1,2 +1,2 @@
 F8D0..F8FF; Klingon
-FC000..FC06F; Morningmusume
+F9F00..F9FFF; Morning Musume
