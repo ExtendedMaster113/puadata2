@@ -1,3 +1,4 @@
+E400..E42F; Niskloz
 E770..E77F; Solresol
 F8D0..F8FF; Klingon
 FDC00..FDDFF; Mokushou
