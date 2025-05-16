@@ -9,7 +9,9 @@ E150|E18F|Kinya|Reserved|As defined in the UCSUR
 E1B0|E1CF|Ilianore|Reserved|As defined in the UCSUR
 E200|E26F|Verdurian|Reserved|As defined in the UCSUR
 E270|E28F|aUI|Reserved|As defined in the UCSUR
+E290|E2CF|ARIB Compatibility|Reserved|As in Nishiki-Teki
 E3B0|E3FF|Olaetyan|Reserved|As defined in the UCSUR
+E400|E42F|Biblos Compatibility|Reserved|E3B0 – E42F in Nishiki-Teki, compacted due to clash with Olaetyan
 E430|E4FF|Phonetic Extensions Appendix|Reserved|E900 – E9CF in Nishiki-Teki, relocated due to clash with Glaitha-A and Glaitha-B
 E500|E51F|MUFI Compatibility-A|Reserved|E8A0 – E8DF in Nishiki-Teki, relocated due to clash with Aurebesh
 E520|E55F|Alphanumeric Supplement|Reserved|F000 – F03F in Quivira, relocated due to clash with MUFI-CYFI-SIL Compatibility from Nishiki-Teki
@@ -113,7 +115,7 @@ FDB00|FDBFF|Block Elements Appendix|Reserved|As in Nishiki-Teki
 FDE00|FDFFF|Regional Flags|Reserved|As in Nishiki-Teki
 FE300|FEEAF|GMail Emoji Compatibility|Reserved|As in Nishiki-Teki
 FEF00|FEFFF|Ornamental Dingbats Appendix|Reserved|As in Nishiki-Teki
-FF000	FF1FF	Pictographs Appendix|Reserved|As in Nishiki-Teki, with some additions
+FF000|FF1FF|Pictographs Appendix|Reserved|As in Nishiki-Teki, with some additions
 FF200|FF2FF|Astrological Symbols|Reserved|
 FF300|FF37F|Divine Symbols|Implemented|
 FF380|FF3BF|Tahano Veno|Reserved|As in Kreative
