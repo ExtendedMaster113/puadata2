@@ -48,7 +48,7 @@ EDB0|EDDF|Tassarunese|Reserved|As defined in the UCSUR
 EDE0|EDEF|Zese|Reserved|As defined in the UCSUR
 EDF0|EDFF|Grawlixes|Reserved|As defined in the UCSUR
 EE00|EEBF|Alphabetic Presentation Forms Appendix|Reserved|As in Nishiki-Teki, with some additions
-EED0|F04F|MUFI-CYFI Compatibility|Reserved|As in Nishiki-Teki
+EEC0|F04F|MUFI-CYFI Compatibility|Reserved|As in Nishiki-Teki
 F050|F0FF|Latin Extended Appendix-B|Reserved|As in Nishiki-Teki
 F100|F32F|MUFI-SIL Compatibility|Reserved|As in Nishiki-Teki
 F330|F3CF|CYFI Compatibility|Reserved|As in Nishiki-Teki
@@ -91,8 +91,9 @@ F2800|F282F|Liparxe|Reserved|As defined in the UCSUR
 F2830|F289F|Shaleian|Reserved|As defined in the UCSUR
 F28A0|F28DF|Zbalermorna|Reserved|As defined in the UCSUR
 F2900|F295F|Visible Speech Extended|Reserved|As defined in the UCSUR
-F4380|F43FF|Singkong|Reserved|As defined in the UCSUR
-F4800|F482F|Tamanegi|Reserved|As defined in the UCSUR
+F4330|F437F|Ihatemysalf|Reserved|FF330 – FF37F in Kreative, relocated due to clash with Divine Symbols
+F4380|F43FF|Singkong|Reserved|
+F4800|F482F|Tamanegi|Reserved|
 F7C00|F7CFF|Kana Appendix-B|Reserved|As in Nishiki-Teki
 F8000|F83FF|Aymara|Reserved|As defined in the UCSUR
 F8400|F85FF|Paucartambo|Reserved|As defined in the UCSUR
@@ -108,7 +109,7 @@ FC3D0|FC3FF|Mahjong Tiles Appendix|Reserved|As in Nishiki-Teki
 FC400|FC4FF|Miscellaneous Game Symbols|Reserved|Mahjong extensions, penalty cards, various colored board game pieces, racing flags
 FC840|FC89F|Vexillological Symbols|Reserved|As in Nishiki-Teki
 FC8A0|FC8FF|Laundry Symbols|Reserved|E100 – E13F in Quivira, relocated due to clash with Engsvanyali, plus Japanese symbols
-FC900|FCAFF|Safety Symbols|Implemented|GHS pictograms, ADR Danger classes, EWG pictograms, WHMIS classes, ISO 7010 symbols, DIN 4844-2 symbols
+FC900|FCAFF|Safety Symbols|Reserved|GHS pictograms, ADR Danger classes, EWG pictograms, WHMIS classes, ISO 7010 symbols, DIN 4844-2 symbols
 FCB00|FCB7F|Maritime Signal Flags|Reserved|
 FD100|FD1FF|Musical Symbols Appendix|Reserved|As in Nishiki-Teki
 FDB00|FDBFF|Block Elements Appendix|Reserved|As in Nishiki-Teki
@@ -117,10 +118,11 @@ FE300|FEEAF|GMail Emoji Compatibility|Reserved|As in Nishiki-Teki
 FEF00|FEFFF|Ornamental Dingbats Appendix|Reserved|As in Nishiki-Teki
 FF000|FF1FF|Pictographs Appendix|Reserved|As in Nishiki-Teki, with some additions
 FF200|FF2FF|Astrological Symbols|Reserved|
-FF300|FF37F|Divine Symbols|Implemented|
+FF300|FF37F|Divine Symbols|Reserved|
 FF380|FF3BF|Tahano Veno|Reserved|As in Kreative
 FF3C0|FF3FF|Aliphbepf|Reserved|As in Kreative
 FF400|FF51F|Voynich|Reserved|As in Kreative
+FF600|FF64F|Jurgenschmidht|Reserved|As in Kreative
 FF700|FF7FF|Seven-Segment Display Patterns|Reserved|As in Kreative and Nishiki-Teki
 FFC00|FFCFF|Symbols For Legacy Computing Appendix|Reserved|As in Kreative
 FFD00|FFDFF|Nishiki Shell Surfaces|Reserved|As in Nishiki-Teki
