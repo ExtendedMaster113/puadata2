@@ -73,10 +73,10 @@ F0000|F01FF|Standardized Variants|Reserved|As in Nishiki-Teki
 F0200|F020F|Private Use Variation Selectors|Reserved|
 F0210|F02DF|Cardo Compatibility|Reserved|As in Nishiki-Teki
 F0300|F04FF|Control Pictures Appendix-A|Reserved|As in Nishiki-Teki, with some additions
-F0600|F08FF|Number Forms Appendix-B|Reserved|As in Nishiki-Teki
+F0600|F08FF|Number Forms Appendix-B|Reserved|As in Nishiki-Teki, replaces Number Forms Appendix
 F0900|F09FF|Enclosed Alphanumerics Appendix|Reserved|As in Nishiki-Teki, with some additions
 F0A00|F0CFF|Enclosed CJK Letters Appendix|Reserved|As in Nishiki-Teki
-F0D00|F0DFF|Partially Enclosed Alphanumerics|Reserved|Characters from Quivira which are not in Number Forms Appendix-B, and some set completion
+F0D00|F0DFF|Partially Enclosed Alphanumerics|Reserved|Characters from Quivira which are not in Number Forms Appendix (now Number Forms Appendix-B), and some set completion
 F0E70|F16AF|Pikto|Reserved|As defined in the UCSUR
 F16B0|F16DF|Derani|Reserved|As defined in the UCSUR
 F1700|F18FF|Semtog|Reserved|As defined in the UCSUR
