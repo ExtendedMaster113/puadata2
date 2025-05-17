@@ -31,9 +31,9 @@ E890|E8DF|Aurebesh|Reserved|As defined in the UCSUR
 E8E0|E8FF|Tonal|Reserved|As defined in the UCSUR
 E900|E97F|Glaitha-A|Reserved|As defined in the UCSUR
 E980|E9DF|Glaitha-B|Reserved|As defined in the UCSUR
-E9E0|E9FF|Number Forms Appendix-A|Reserved|Medefaidrin Small Numbers
-EA00|EACF|Latin Extended Appendix-A|Reserved|As in Nishiki-Teki
-EAD0|EAFF|MUFI Compatibility-B|Reserved|As in Nishiki-Teki
+E9E0|E9FF|Number Forms Extended Appendix-A|Reserved|Medefaidrin Small Numbers
+EA00|EACF|Latin Extended Appendix-A|Reserved|As in Nishiki-Teki and Catrinity
+EAD0|EAFF|MUFI Compatibility-B|Reserved|As in Nishiki-Teki and Catrinity
 EB00|EB3F|Orokin|Reserved|As defined in the UCSUR
 EB40|EB5F|Standard Galactic|Reserved|As defined in the UCSUR
 EB60|EB9F|Punctuation Appendix-A|Reserved|E9D0 – E9FF in Nishiki-Teki, replaces Braille Extended
@@ -48,34 +48,34 @@ ED80|EDAF|Iranic|Reserved|As defined in the UCSUR
 EDB0|EDDF|Tassarunese|Reserved|As defined in the UCSUR
 EDE0|EDEF|Zese|Reserved|As defined in the UCSUR
 EDF0|EDFF|Grawlixes|Reserved|As defined in the UCSUR
-EE00|EEBF|Alphabetic Presentation Forms Appendix|Reserved|As in Nishiki-Teki, with some additions
-EEC0|F04F|MUFI-CYFI Compatibility|Reserved|As in Nishiki-Teki
-F050|F0FF|Latin Extended Appendix-B|Reserved|As in Nishiki-Teki
-F100|F32F|MUFI-SIL Compatibility|Reserved|As in Nishiki-Teki
-F330|F3CF|CYFI Compatibility|Reserved|As in Nishiki-Teki
-F3D0|F3FF|Cyrillic Extended Appendix-A|Reserved|As in Nishiki-Teki
-F400|F4BF|Kana Appendix-A|Reserved|As in Nishiki-Teki
+EE00|EEBF|Alphabetic Presentation Forms Appendix|Reserved|As in Nishiki-Teki and Catrinity, with some additions
+EEC0|F04F|MUFI-CYFI Compatibility|Reserved|As in Nishiki-Teki and Catrinity
+F050|F0FF|Latin Extended Appendix-B|Reserved|As in Nishiki-Teki and Catrinity
+F100|F32F|MUFI-SIL Compatibility|Reserved|As in Nishiki-Teki and Catrinity
+F330|F3CF|CYFI Compatibility|Reserved|As in Nishiki-Teki and Catrinity
+F3D0|F3FF|Cyrillic Extended Appendix-A|Reserved|As in Nishiki-Teki and Catrinity
+F400|F4BF|Kana Appendix-A|Reserved|As in Nishiki-Teki and Catrinity
 F4C0|F4EF|Ath|Reserved|As in Nishiki-Teki and Fairfax HD
-F4F0|F4FF|MUFI Compatibility-D|Reserved|As in Nishiki-Teki
-F500|F54F|Kodo Symbols|Reserved|As in Quivira and Nishiki-Teki
-F550|F57F|Mathematical Symbols Appendix|Reserved|As in Nishiki-Teki
-F580|F58F|Geomantic Figures|Reserved|As in Quivira and Nishiki-Teki
-F590|F5FF|Various Symbols|Reserved|As in Nishiki-Teki, with some additions
-F600|F6FF|Geometric Shapes and Technical Symbols Appendix|Reserved|As in Nishiki-Teki
-F700|F7FF|Kreative Compatibility|Reserved|As in Nishiki-Teki
-F800|F87F|Apple Compatibility|Reserved|As in Nishiki-Teki
-F880|F89F|Technical Symbols Appendix|Reserved|As in Nishiki-Teki
+F4F0|F4FF|MUFI Compatibility-D|Reserved|As in Nishiki-Teki and Catrinity
+F500|F54F|Kodo Symbols|Reserved|As in Quivira, Nishiki-Teki, and Catrinity
+F550|F57F|Mathematical Symbols Appendix|Reserved|As in Nishiki-Teki and Catrinity
+F580|F58F|Geomantic Figures|Reserved|As in Quivira, Nishiki-Teki, and Catrinity
+F590|F5FF|Various Symbols|Reserved|As in Nishiki-Teki and Catrinity, with some additions
+F600|F6FF|Geometric Shapes and Technical Symbols Appendix|Reserved|As in Nishiki-Teki and Catrinity
+F700|F7FF|Kreative Compatibility|Reserved|As in Nishiki-Teki and Catrinity
+F800|F87F|Apple Compatibility|Reserved|As in Nishiki-Teki and Catrinity
+F880|F89F|Technical Symbols Appendix|Reserved|As in Nishiki-Teki and Catrinity
 F8A0|F8CF|Aiha|Reserved|As defined in the UCSUR
 F8D0|F8FF|Klingon|Reserved|As defined in the UCSUR
 ## Supplementary Private Use Area-A
 First|Last|Block|Status|Compatibility / Comments
 --|--|--|--|--
-F0000|F01FF|Standardized Variants|Reserved|As in Nishiki-Teki
-F0200|F020F|Private Use Variation Selectors|Reserved|
-F0210|F02DF|Cardo Compatibility|Reserved|As in Nishiki-Teki
-F0300|F04FF|Control Pictures Appendix-A|Reserved|As in Nishiki-Teki, with some additions
-F0600|F08FF|Number Forms Appendix-B|Reserved|As in Nishiki-Teki, replaces Number Forms Appendix
-F0900|F09FF|Enclosed Alphanumerics Appendix|Reserved|As in Nishiki-Teki, with some additions
+F0000|F01FF|Standardized Variants|Reserved|As in Nishiki-Teki and Catrinity
+F0200|F020F|Private Use Variation Selectors|Reserved|As in Catrinity
+F0210|F02DF|Cardo Compatibility|Reserved|As in Nishiki-Teki and Catrinity
+F0300|F04FF|Control Pictures Appendix-A|Reserved|As in Catrinity, with some additions
+F0600|F08FF|Number Forms Appendix-A|Reserved|As in Nishiki-Teki and Catrinity, with some additions
+F0900|F09FF|Enclosed Alphanumerics Appendix|Reserved|As in Nishiki-Teki and Catrinity, with some additions
 F0A00|F0CFF|Enclosed CJK Letters Appendix|Reserved|As in Nishiki-Teki
 F0D00|F0DFF|Partially Enclosed Alphanumerics|Reserved|As in Catrinity
 F0E70|F16AF|Pikto|Reserved|As defined in the UCSUR
@@ -98,25 +98,25 @@ F7C00|F7CFF|Kana Appendix-B|Reserved|As in Nishiki-Teki
 F8000|F83FF|Aymara|Reserved|As defined in the UCSUR
 F8400|F85FF|Paucartambo|Reserved|As defined in the UCSUR
 FA750|FA75F|Combining Strokes|Reserved|As in Catrinity
-FC000|FC04F|Chess Symbols Appendix-B|Reserved|As in Nishiki-Teki
-FC100|FC16F|Domino Tiles Appendix|Reserved|As in Nishiki-Teki
+FC000|FC04F|Chess Symbols Appendix-B|Reserved|As in Nishiki-Teki and Catrinity
+FC100|FC16F|Domino Tiles Appendix|Reserved|As in Nishiki-Teki and Catrinity
 FC170|FC1AF|Die Faces|Reserved|As in Catrinity, replaces Polyhedra
 FC1B0|FC1EF|Hanafuda|Reserved|As in Catrinity
 FC1F0|FC1FF|Kabufuda|Reserved|As in Catrinity
 FC200|FC2DF|Playing Cards Appendix|Reserved|As in Catrinity, with some additions
-FC2E0|FC3CF|Chess Symbols Appendix|Reserved|As in Nishiki-Teki, with some additions
-FC3D0|FC40F|Mahjong Tiles Appendix|Reserved|As in Nishiki-Teki
-FC410|FC4FF|Miscellaneous Game Symbols|Reserved|As in Nishiki-Teki, with some additions
-FC840|FC89F|Vexillological Symbols|Reserved|As in Nishiki-Teki
+FC2E0|FC3CF|Chess Symbols Appendix|Reserved|As in Nishiki-Teki and Catrinity, with some additions
+FC3D0|FC40F|Mahjong Tiles Appendix|Reserved|As in Nishiki-Teki and Catrinity
+FC410|FC4FF|Miscellaneous Game Symbols|Reserved|As in Nishiki-Teki and Catrinity, with some additions
+FC840|FC89F|Vexillological Symbols|Reserved|As in Nishiki-Teki and Catrinity
 FC8A0|FC8FF|Laundry Symbols|Reserved|E100 – E13F in Quivira, relocated due to clash with Engsvanyali, plus Japanese symbols
 FC900|FCAFF|Safety Symbols|Reserved|As in Catrinity, with some additions
 FCB00|FCB7F|Maritime Signal Flags|Reserved|As in Catrinity
-FD100|FD1FF|Musical Symbols Appendix|Reserved|As in Nishiki-Teki
-FDB00|FDBFF|Block Elements Appendix|Reserved|As in Nishiki-Teki
-FDE00|FDFFF|Regional Flags|Reserved|As in Nishiki-Teki and Catrinity Flags
-FE300|FEEAF|GMail Emoji Compatibility|Reserved|As in Nishiki-Teki
-FEF00|FEFFF|Ornamental Dingbats Appendix|Reserved|As in Nishiki-Teki
-FF000|FF1FF|Pictographs Appendix|Reserved|As in Nishiki-Teki, with some additions
+FD100|FD1FF|Musical Symbols Appendix|Reserved|As in Nishiki-Teki and Catrinity
+FDB00|FDBFF|Block Elements Appendix|Reserved|As in Nishiki-Teki and Catrinity
+FDE00|FDFFF|Regional Flags|Reserved|As in Nishiki-Teki and Catrinity
+FE300|FEEAF|GMail Emoji Compatibility|Reserved|As in Nishiki-Teki and Catrinity
+FEF00|FEFFF|Ornamental Dingbats Appendix|Reserved|As in Nishiki-Teki and Catrinity
+FF000|FF1FF|Pictographs Appendix|Reserved|As in Nishiki-Teki and Catrinity, with some additions
 FF200|FF2FF|Astrological Symbols|Reserved|As in Catrinity
 FF300|FF37F|Divine Symbols|Reserved|As in Catrinity
 FF380|FF3BF|Tahano Veno|Reserved|As in Kreative
@@ -126,17 +126,17 @@ FF600|FF64F|Jurgenschmidht|Reserved|As in Kreative
 FF700|FF7FF|Seven-Segment Display Patterns|Reserved|As in Kreative and Nishiki-Teki
 FFC00|FFCFF|Symbols For Legacy Computing Appendix|Reserved|As in Kreative
 FFD00|FFDFF|Nishiki Shell Surfaces|Reserved|As in Nishiki-Teki
-FFE00|FFEFF|Hex Byte Pictures|Reserved|As in Nishiki-Teki
-FFF80|FFFBF|Mathematical Alphanumeric Symbols Appendix|Reserved|As in Nishiki-Teki
+FFE00|FFEFF|Hex Byte Pictures|Reserved|As in Nishiki-Teki and Catrinity
+FFF80|FFFBF|Mathematical Alphanumeric Symbols Appendix|Reserved|As in Nishiki-Teki and Catrinity
 ## Supplementary Private Use Area-B
 First|Last|Block|Status|Compatibility / Comments
 --|--|--|--|--
-100000|1001FF|Control Pictures Appendix-B|Reserved|As in Nishiki-Teki
+100000|1001FF|Control Pictures Appendix-B|Reserved|As in Nishiki-Teki and Catrinity
 100200|1004FF|Custom Emoji|Reserved|As in Catrinity, with some additions
 100D00|100F5F|Alphabetic Presentation Forms Appendix-B|Reserved|As in Catrinity, with some additions
-100F60|100FFF|Code Value Presentation Glyphs|Reserved|As in Nishiki-Teki
+100F60|100FFF|Code Value Presentation Glyphs|Reserved|As in Nishiki-Teki and Catrinity
 101000|1012FF|Arabic Presentation Forms Appendix|Reserved|As in Catrinity
 101300|1013FF|Glyph Variants|Reserved|As in Catrinity
 101400|1014FF|Mirrored Glyphs|Reserved|As in Catrinity
 10F800|10F9FF|Glyph Components|Reserved|As in Catrinity
-10FF10|10FF2F|Visual Font Metrics|Reserved|As in Nishiki-Teki
+10FF10|10FF2F|Visual Font Metrics|Reserved|As in Nishiki-Teki and Catrinity
