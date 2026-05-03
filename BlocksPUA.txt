@@ -1,2 +1,3 @@
 E400..E42F; Niskloz
 F8D0..F8FF; Klingon
+F3B80..F3B9F; Suikanese
