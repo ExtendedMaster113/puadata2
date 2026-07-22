@@ -1,5 +1,4 @@
 E080..E0FF; Cirth
 E400..E42F; Niskloz
 F8D0..F8FF; Klingon
-F26B0..F26FF; Seiyuunese
 F3B80..F3B9F; Suikanese
